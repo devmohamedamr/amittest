@@ -1,0 +1,15 @@
+{
+    "name": "amit/test",
+    "autoload": {
+        "psr-4": {
+            "Amit\\Test\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "mohamed amr",
+            "email": "dev.mohamedamr@gmail.com"
+        }
+    ],
+    "require": {}
+}
