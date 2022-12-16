@@ -1,6 +1,6 @@
 <?php
 
-namespace Amit\Test;
+namespace Amit73\Test;
 
 class test{
     public function go(){

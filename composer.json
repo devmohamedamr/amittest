@@ -2,7 +2,7 @@
     "name": "amit/test",
     "autoload": {
         "psr-4": {
-            "Amit\\Test\\": "src/"
+            "Amit73\\Test\\": "src/"
         }
     },
     "authors": [

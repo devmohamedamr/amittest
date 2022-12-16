@@ -1,5 +1,5 @@
 <?php
-namespace Amit\Test\model;
+namespace Amit73\Test\model;
 
 class user{
 
