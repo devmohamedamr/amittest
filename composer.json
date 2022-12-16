@@ -1,5 +1,5 @@
 {
-    "name": "amit/test",
+    "name": "amit73/test",
     "autoload": {
         "psr-4": {
             "Amit73\\Test\\": "src/"
